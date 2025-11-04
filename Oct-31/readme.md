@@ -99,3 +99,7 @@ Fill out the form (Name, Email, Message) and submit.
 Check DynamoDB → UserSubmissions table for new record.
 
 Optionally, test /submissions endpoint to fetch all entries.
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/04d4da6c-a937-4a6a-aac9-7bbe59d05d13" />
+
